@@ -4,7 +4,7 @@
 ### Results
 * After conducting multiple queries of the data it can be concluded that:
 1) There are 72,458 employees that will be retirement eligible at Pewlett-Hackard. This information was found through the use of the following query:
-![unique_titles]()
+![unique_titles](https://github.com/copo6953/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.png)
 2) The following is a table summarizing the total number of employees from each job title position that will be retirement eligible:
 ![retiring_titles_table](https://github.com/copo6953/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles_table.png)
 * The senior engineer position will be the biggest problem with 25,916 employees retirement eligible, and the senior staff position close behind with 24,926 employees eligible. This information was found throug the use of the following query:
