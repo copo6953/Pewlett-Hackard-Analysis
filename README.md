@@ -8,7 +8,7 @@
 2) The following is a table summarizing the total number of employees from each job title position that will be retirement eligible:
 ![retiring_titles_table]()
 * The senior engineer position will be the biggest problem with 25,916 employees retirement eligible, and the senior staff position close behind with 24,926 employees eligible. This information was found throug the use of the following query:
-![retiring_titles]()
+![retiring_titles](https://github.com/copo6953/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 3) There are 1,549 employees that are eligible to mentor new hires. This information was found through the use of the following query:
 ![mentorship_eligibility](https://github.com/copo6953/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
 4) Only 169 senior engineers are mentorship eligible.
